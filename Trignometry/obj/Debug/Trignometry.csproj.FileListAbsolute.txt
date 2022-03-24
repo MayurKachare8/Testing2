@@ -1,0 +1,7 @@
+D:\Dotnet\Trignometry\Trignometry\obj\Debug\Trignometry.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Trignometry\Trignometry\obj\Debug\Trignometry.csproj.CoreCompileInputs.cache
+D:\Dotnet\Trignometry\Trignometry\bin\Debug\Trignometry.exe.config
+D:\Dotnet\Trignometry\Trignometry\bin\Debug\Trignometry.exe
+D:\Dotnet\Trignometry\Trignometry\bin\Debug\Trignometry.pdb
+D:\Dotnet\Trignometry\Trignometry\obj\Debug\Trignometry.exe
+D:\Dotnet\Trignometry\Trignometry\obj\Debug\Trignometry.pdb
